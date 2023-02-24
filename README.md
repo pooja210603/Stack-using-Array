@@ -23,19 +23,19 @@ Stack is a linear data structure that follows a particular order in which the op
 
 3. Create main function and give the user the choice to perform operations as Push, Pop, Display and Exit . Call the functions according to the choice given by user.
 
-4. Declare and define the function push.
+4. Declare and define the function push<br>
  _PUSH FUNCTION_:
 - Check if top==9, print overflow 
--else accept data from user,increment top, insert data at top position.
+- else accept data from user,increment top, insert data at top position.
 
-5. Declare and define the function pop.
+5. Declare and define the function pop<br>
 _POP FUNCTION_:
--Check if top==-1, print underflow
--else decrement top.
+- Check if top==-1, print underflow
+- else decrement top.
 
-4. Declare and define the function display.
+4. Declare and define the function display<br>
 _DISPLAY FUNCTION_:
--Print the array using for loop.
+- Print the array using for loop.
 
 
 ## Applications of Stack:

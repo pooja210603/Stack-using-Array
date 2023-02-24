@@ -17,6 +17,26 @@ Stack is a linear data structure that follows a particular order in which the op
 
 ## Algorithm of the program:
 
+1. Declare variable top and assign it to -1.
+
+2. Declare an array of 10 integers.
+
+3. Create main function and give the user the choice to perform operations as Push, Pop, Display and Exit . Call the functions according to the choice given by user.
+
+4. Declare and define the function push.
+ _PUSH FUNCTION_:
+- Check if top==9, print overflow 
+-else accept data from user,increment top, insert data at top position.
+
+5. Declare and define the function pop.
+_POP FUNCTION_:
+-Check if top==-1, print underflow
+-else decrement top.
+
+4. Declare and define the function display.
+_DISPLAY FUNCTION_:
+-Print the array using for loop.
+
 
 ## Applications of Stack:
 

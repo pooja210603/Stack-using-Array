@@ -52,6 +52,9 @@ Postfix to infix
 **UNDO/REDO:** It can also be used for performing UNDO/REDO operations. For example, we have an editor in which we write 'a', then 'b', and then 'c'; therefore, the text written in an editor is abc. So, there are three states, a, ab, and abc, which are stored in a stack. There would be two stacks in which one stack shows UNDO state, and the other shows REDO state.
 If we want to perform UNDO operation, and want to achieve 'ab' state, then we implement pop operation.
 
+**Find some more applications here :**</br>
+https://www.javatpoint.com/applications-of-stack-in-data-structure
+
 
 
 

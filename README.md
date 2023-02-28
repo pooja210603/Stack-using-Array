@@ -1,6 +1,6 @@
 # Stack using Array
 Stack is a linear data structure that follows a particular order in which the operations are performed. LIFO (Last In First Out) implies that the element that is inserted last, comes out first and FILO (First In Last Out) implies that the element that is inserted first, comes out last.
-![image](https://user-images.githubusercontent.com/125560933/220721466-e60b6141-fcdc-4376-a194-369d03468cb3.png)
+![image](https://github.com/pooja210603/Stack-using-Array/blob/main/1.png)
 
 ## Operations on Stack:
 

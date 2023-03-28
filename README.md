@@ -37,6 +37,10 @@ _POP FUNCTION_:
 _DISPLAY FUNCTION_:
 - Print the array using for loop.
 
+## Output :
+![image](https://user-images.githubusercontent.com/125560933/228200562-bbe2748a-9f26-4476-9bf1-4eedc0cf464a.png)
+
+
 
 ## Applications of Stack:
 
